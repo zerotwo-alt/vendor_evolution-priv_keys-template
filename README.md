@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-croot && git clone https://github.com/Evolution-X/vendor_evolution-priv_keys-template vendor/lineage-priv/keys
+croot && git clone https://github.com/zerotwo-alt/vendor_evolution-priv_keys-template.git vendor/lineage-priv/keys
 ```
 
 ```bash
